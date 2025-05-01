@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Yvanovsky",
+  "license": "Dev",
+  "description": "Exercice de comprehension de node js",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
